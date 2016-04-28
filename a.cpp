@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main(){
 	for(int x=2000;x<=2500;x++){
@@ -8,7 +8,7 @@ int main(){
 			printf("%d不是闰年\n",x);
 
 		//+++++
-		
+		//+++
 
 	}
 }
