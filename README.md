@@ -22,7 +22,8 @@
 *斜体*
 
 [百度](www.baidu.com)
-[google](www.google.com)
+[google](www.google.com)  
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
 > 这是引用文字
 
